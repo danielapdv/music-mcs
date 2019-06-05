@@ -15,6 +15,7 @@ Portillo del Valle, D. (2019) "Modelación, Clasificación y Simulación de Obra
 ------------------------------------------
 
 Contenido (Content):
--lalala.csv
--lalalasds.txt
+
+-Listado de obras musicales y autores que forman parte de la base de datos: "obras.txt"
+
 -skjcnskd.csv
